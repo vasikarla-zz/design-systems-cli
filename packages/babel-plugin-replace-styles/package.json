@@ -24,7 +24,7 @@
     "!__tests__"
   ],
   "dependencies": {
-    "tslib": "2.0.1"
+    "tslib": "2.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.11.5",
