@@ -44,7 +44,7 @@
   "devDependencies": {
     "@design-systems/cli-utils": "link:../cli-utils",
     "@types/dedent": "0.7.0",
-    "@types/fs-extra": "9.0.1",
+    "@types/fs-extra": "9.0.7",
     "@types/inquirer": "7.3.1",
     "change-case": "4.1.1",
     "cli-spinners": "2.4.0",
@@ -53,7 +53,7 @@
     "copy-template-dir": "1.4.0",
     "dedent": "0.7.0",
     "degit": "https://github.com/hipstersmoothie/degit.git#private-release",
-    "fs-extra": "9.0.1",
+    "fs-extra": "9.1.0",
     "inquirer": "7.3.3",
     "progress-estimator": "0.3.0",
     "terminal-link": "2.1.1",
