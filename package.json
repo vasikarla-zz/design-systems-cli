@@ -34,10 +34,10 @@
     "access": "public"
   },
   "devDependencies": {
-    "@auto-it/all-contributors": "9.52.0",
-    "@auto-it/first-time-contributor": "9.52.0",
-    "@auto-it/released": "9.52.0",
-    "auto": "9.52.0",
+    "@auto-it/all-contributors": "10.16.8",
+    "@auto-it/first-time-contributor": "10.16.8",
+    "@auto-it/released": "10.16.8",
+    "auto": "10.16.8",
     "change-case": "4.1.1",
     "copy-template-dir": "1.4.0",
     "lerna": "3.22.1",
